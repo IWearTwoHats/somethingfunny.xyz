@@ -1,0 +1,14 @@
+@import url('/style.css');
+
+table {
+	font-size: 24px;
+	margin: 4px;
+	border-collapse: collapse;
+	img {
+		width: 24px;
+	}
+}
+
+table, tr, td {
+	border: 1px solid white;
+}

@@ -1,0 +1,2 @@
+I'm currently workinng on the successor to BSHS, SBSHS.
+The Secure Basic HTTPS Server has been causing me many headaches. I've tried almost everything, but I can't seem to get a trusted certificate working. Don't expect it to release anytime soon, but if someone that magically knows how to help is reading, I'm all ears.

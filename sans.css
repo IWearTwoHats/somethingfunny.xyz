@@ -1,0 +1,32 @@
+@import url('/style.css');
+@font-face {
+	font-family: "comicsans";
+	src: url("/fonts/comicsans.ttf") format("truetype");
+}
+h1 {
+	font-family: comicsans;
+}
+h2 {
+	font-family: comicsans;
+}
+h3 {
+	font-family: comicsans;
+}
+h4 {
+	font-family: comicsans;
+}
+ol {
+	font-family: comicsans;
+}
+ul {
+	font-family: comicsans;
+}
+p {
+	font-family: comicsans;
+}
+a {
+	font-family: comicsans;
+}
+button {
+	font-family: comicsans;
+}

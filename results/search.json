@@ -1,0 +1,20 @@
+{
+	"Webpages": {
+		"Something Funny": "http://somethingfunny.xyz",
+		"Anti Cromulent Drawing Competition": "http://ln.somethingfunny.xyz/acdc",
+		"News": "http://somethingfunny.xyz/news",
+		"Gallery": "http://somethingfunny.xyz/gallery",
+		"Digital Archive": "http://vintage.somethingfunny.xyz"
+	},
+	"Software": {
+		"Minks": "http://ln.somethingfunny.xyz/sw/minks"
+	},
+	"Artwork": {
+		"Watching": "http://ln.somethingfunny.xyz/art/watching",
+		"TwoHats": "http://ln.somethingfunny.xyz/art/twohats",
+		"Floppy Disk": "http://ln.somethingfunny.xyz/art/floppy"
+	},
+	"People of significance": {
+		"IWearTwoHats": "http://ln.somethingfunny.xyz/p/IWearTwoHats"
+	}
+}

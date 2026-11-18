@@ -1,0 +1,32 @@
+<html>
+	<head>
+		<title>Search</title>
+		<link rel="stylesheet" href="/style.css">
+	</head>
+	<body>
+		<h1><a class="hidden" tabindex="-1" href="/">Something funny.</a></h1>
+		<h2>
+			<img src="/images/mag_glass_big.png" height="48px">
+			Search
+			<img src="/images/mag_glass_big.png" height="48px">
+		</h2>
+		<hr>
+		<form style="text-align: center;" action="/results/">
+			<label for="search-bar">Search the website:</label>
+			<input id="search-bar" type="search" name="q" autocomplete="off" placeholder="Search">
+			<button id="search-button">Search</button>
+			<input id="search-reset" type="reset">
+			<br>
+			<label for="search-category">Section:</label>
+			<select id="search-category" name="category">
+				<option value="" selected></option>
+				<option value="webpages">Webpages</option>
+				<option value="artwork">Artwork</option>
+				<option value="software">Software</option>
+				<option value="people of significance">People of Significance</option>
+			</select>
+		</form>
+		<hr>
+		<script src="/js/search.js"></script>
+	</body>
+</html>

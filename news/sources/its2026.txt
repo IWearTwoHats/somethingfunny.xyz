@@ -1,0 +1,11 @@
+New year, new number I have to memorize. I have to say, this year has been good so far, and I have the feeling that it will continue like that for at least a month.
+Here's a general update of what I've been working on for that past few days.
+I have always liked the style of CD player displays: the plain, monochrome LCD or VFD, the limited size, and of course, the scrolling. If there was a name that was too long for the screen to display, it would scroll across the screen. I wanted to recreate that, but with something a little more modern. I decided to create a program that would utilize the Spotify API to get my current playing track and show it's information on an LCD.
+Here's a short video showing it off:
+<b>[Video will appear when I remember to film it]</b>
+In short, the Raspberry Pi on the breadboard will ping a helper application on my server, and that will send a request to the Spotify API. The Raspberry Pi will just get a small, condensed JSON file, and print it to the screen.
+RPi [GET /track_info] -> My Server [Wat TwoHats doin] -> Spotify API
+Spotify API [Your Idol from KPOP DEMON HUNTERS] -> My server -> RPi -> LCD
+What's next?
+I want to be able to show the information of ANY media playing on my device. I don't know if I'll be able to pull this off, but here's the rundown. You will be able to connect to the Raspberry Pi via Bluetooth, and a program on your device will send the current media information to the Raspberry Pi, which will then display said information.
+I don't really know how to end this so uhhh, Happy New Year!

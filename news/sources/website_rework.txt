@@ -1,0 +1,1 @@
+If you noticed that my website has looked a little off, or that it doesn't exist at all, no you're not insane. I have been working hard to improve my code, which proceeded to break the entire thing for a short time. Hopefully this will never have to happen again since my code is better now.
